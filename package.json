@@ -14,7 +14,8 @@
     "@tailwindcss/vite": "^4.1.14",
     "react": "^19.1.1",
     "react-date-wheel-picker": "^0.1.12",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "tailwind-scrollbar-hide": "^4.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
